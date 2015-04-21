@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Goslate</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text">text to translate</string>
+    <string name="output_text">output text</string>
+    <string name="translate">translate</string>
+</resources>
