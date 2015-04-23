@@ -8,5 +8,5 @@ The idea of the created application is to overcome official Google Translate API
 Android app represents simple input field, prassing translate button the contnet of the field is sent to server and translated using Goslate module, rest-style architecture was created using Tastypie.
 
 
-&nbsp;![alternate text](http://diurnal-blogger.herokuapp.com/media/uploads/Screenshot_2015-04-21-23-24-48_Xjy2fQI.png)&nbsp; &nbsp; &nbsp; &nbsp; 
-![alternate text](http://diurnal-blogger.herokuapp.com/media/uploads/Screenshot_2015-04-21-23-25-21_WQCUnBE.png)
+&nbsp; ![alternate text](http://diurnal-blogger.herokuapp.com/media/uploads/Screenshot_2015-04-21-23-24-48_Q4s5V0t.png)&nbsp;
+![alternate text](http://diurnal-blogger.herokuapp.com/media/uploads/Screenshot_2015-04-21-23-25-21.png)
